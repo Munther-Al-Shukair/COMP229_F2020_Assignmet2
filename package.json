@@ -1,5 +1,5 @@
 {
-  "name": "Assignment1",
+  "name": "assignment1",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -32,5 +32,17 @@
     "@types/passport": "^1.0.4",
     "@types/passport-local": "^1.0.33",
     "@types/passport-local-mongoose": "^4.0.13"
-  }
+  },
+  "description": "\"# Repo-COMP229-Project\" \r \"# COMP_F2020_Practice\" \r \"# comp229_f2020_assignment2\" \r \"# comp229_f2020_assignment2\" \r \"# comp229_f2020_assignment2\"",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Munther-Al-Shukair/COMP_F2020_Practice.git"
+  },
+  "author": "Munther Al Shukair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Munther-Al-Shukair/COMP_F2020_Practice/issues"
+  },
+  "homepage": "https://github.com/Munther-Al-Shukair/COMP_F2020_Practice#readme"
 }

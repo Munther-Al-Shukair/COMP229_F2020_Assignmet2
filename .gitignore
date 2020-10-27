@@ -1,0 +1,13 @@
+
+
+
+echo "# comp229_f2020_assignment2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Munther-Al-Shukair/COMP229_Assignment2
+git push -u origin main
+
+https://github.com/Munther-Al-Shukair/COMP_F2020_Assignmet2.git
+https://github.com/Munther-Al-Shukair/COMP229_F2020_Assignmet2.git
